@@ -17,9 +17,9 @@ User should see the app icon, a splash screen, a flip animation when revealing t
 - [X] User should see a slide animation when going to the previous flashcard
 - [X] Push code to GitHub
 ## Optional
-- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
-- [ ] User should see all views properly layout when using the app on a phone of different sizes
-- [ ] Correct answer in multiple choice should be random
+- [X] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [X] User should see all views properly layout when using the app on a phone of different sizes
+- [X] Correct answer in multiple choice should be random
 1
 ## Lab 3
 2
