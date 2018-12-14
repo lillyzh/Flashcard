@@ -60,20 +60,14 @@ class CreationViewController: UIViewController {
             alert.addAction(okAction)
             
         } else {
+            var isExisting = false;
+            if initialQuestion != nil {
+                isExisting = true;
+            }
             
-            flashcardsController.updateFlashcard(question: questionText!, answer1: answer1Text!, answer2: answer2Text!, answer3: answer3Text!)
+            flashcardsController.updateFlashcard(question: questionText!, answer1: answer1Text!, answer2: answer2Text!, answer3: answer3Text!, isExisting: isExisting)
         
             dismiss(animated: true)
         }
     }
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
-
 }
