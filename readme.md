@@ -27,25 +27,16 @@ In this app, user can delete a flashcard, edit existing flashcard, store multipl
 - [X] Toggle the flashcard between the question side and the answer side
 - [X] Style the question and answer side of the card to better distinguish between the two sides
 - [X] Add selectable multiple choice answers beneath the card
-6
+
 ### App Walk-though
 <img src="http://g.recordit.co/gkvWYkJACi.gif" width=200><br>
 <img src="http://g.recordit.co/6fsUN77ZHn.gif" width=200><br>
-7
 <img src="http://g.recordit.co/C5CET5z7Ju.gif" width=200><br>
-8
 <img src="http://g.recordit.co/PF0TuKMIh5.gif" width=200><br>
-9
 <img src="http://g.recordit.co/p13D0VdSSe.gif" width=200><br>
-10
 <img src="http://g.recordit.co/BgrfsDyJt1.gif" width=200><br>
-26
 <img src=http://g.recordit.co/QY1T077xDO.gif width=200><br>
-54
-http://g.recordit.co/KuDhUqrWpJ.gif
-57
 <img src="http://g.recordit.co/KuDhUqrWpJ.gif" width=200><br>
-59
 
 
  
