@@ -28,7 +28,7 @@ In this app, user can delete a flashcard, edit existing flashcard, store multipl
 - [X] Style the question and answer side of the card to better distinguish between the two sides
 - [X] Add selectable multiple choice answers beneath the card
 
-### App Walk-though
+## App Walk-though
 <img src="http://g.recordit.co/gkvWYkJACi.gif" width=200><br>
 <img src="http://g.recordit.co/6fsUN77ZHn.gif" width=200><br>
 <img src="http://g.recordit.co/C5CET5z7Ju.gif" width=200><br>
