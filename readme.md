@@ -1,4 +1,4 @@
-## Lab 4
+## Flashcard App
 
 ### App Description
 User should see the app icon, a splash screen, a flip animation when revealing the answer, a slide animation when going to the next flashcard and a slide animation when going to the previous flashcard. User should also see a nicer flaschard with rounded corners, shadows, and animating when showing the first time and all views properly layout when using the app on a phone of different sizes. The app now contains correct answers in random multiple choice bars. 
